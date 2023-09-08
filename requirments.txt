@@ -1,0 +1,5 @@
+aiohttp
+beautifulsoup4
+ufal.udpipe
+wget
+gensim==3.8.0
